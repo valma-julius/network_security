@@ -20,3 +20,6 @@ $ python3 app.py
 ```
 
 The app will run on `localhost:5000` and you can create a new user and after try to steal somebodys account! :)))
+
+You can check out the app on an Open Nebula VM:
+`ssh -p 3866 itns@193.219.91.103`
